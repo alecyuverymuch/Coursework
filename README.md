@@ -1,2 +1,2 @@
 # Coursework
-Repository containing class at the University of Wisconsin Madison
+Repository containing classwork done at the University of Wisconsin Madison
