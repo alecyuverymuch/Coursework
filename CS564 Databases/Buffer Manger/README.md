@@ -2,6 +2,7 @@
 # BadgerDB quick start guide                                                   
 
 ### Building the source and documentation                                        
+Before doing anything, first unzip docs.zip into the Buffer Manager folder, do not change the name of the folder.   
 
 To build the source:  
   `$ make`
