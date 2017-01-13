@@ -3,11 +3,11 @@
 
 ### Building the source and documentation                                        
 
-To build the source:
-  $ make
+To build the source:  
+  `$ make`
 
-To build the real API documentation (requires Doxygen):
-  $ make doc
+To build the real API documentation (requires Doxygen):  
+  `$ make doc`
 
 To view the documentation, open docs/index.html in your web browser after
 running make doc.
