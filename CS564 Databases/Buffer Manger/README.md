@@ -15,7 +15,7 @@ running make doc.
 
 ### Prerequisites                                                                
 
-If you are running this on a CSL instructional machine, these are taken care of.
+If you are running this on a UW Madison CS Lab instructional machine, these are taken care of.
 
 Otherwise, you need:
  * a modern C++ compiler (gcc version 4.6 or higher, any recent version of clang)
