@@ -4,11 +4,17 @@ It then computes the intersection and union between the two lists.
 Then it prints out a the details regarding the two files and their intersection and union. 
 Finally, it outputs the intersection and union in a .txt file
 
-### Input files include: 
+### Input files: 
 cs302.txt  
 cs354.txt  
 cs368.txt  
 cs402.txt  
 dummy.txt  
 summa.txt  
-> *dummy.txt and summa.txt are blank files used for test cases
+> dummy.txt and summa.txt are blank files used for test cases
+
+### Output files:
+The intersection of the two lists will be output in a file called  
+intersection.txt  
+The union of the two lists will be output in a file called  
+union.txt
