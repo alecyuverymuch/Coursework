@@ -1,8 +1,7 @@
 # a1.cpp
-Prompts the user for the names of 2 data files containing student names. 
-It then computes the intersection and union between the two lists. 
-Then it prints out a the details regarding the two files and their intersection and union. 
-Finally, it outputs the intersection and union in a .txt file
+In this program, it first reads in 2 input files consisting of an unknown number of student names and outputs the following:  
+1. A sorted list of students who are present in both the files (i.e. intersection of the 2 sets of students)  
+2. A sorted list of students who are present in at least one of the 2 files (i.e. union of the 2 sets of students).  
 
 ### Input files: 
 cs302.txt  
@@ -18,3 +17,8 @@ The intersection of the two lists will be output in a file called
 intersection.txt  
 The union of the two lists will be output in a file called  
 union.txt
+
+### Compile and Run
+Compile and run with Linux g++
+`g++ a1.cpp`  
+`./a.out`  
