@@ -6,15 +6,16 @@ An implementation of a hashtable in C++. Accepts a csv document and adds its con
 data1.dat  
 data2.dat  
 data3.dat  
+*data1.dat and data2.dat have been modified due to excessivly large file sizes
 ### Compile and Run
 To complile, type into the command line:  
-g++ -std=c++11 -o cs564_p1 -Wall -g cs564_p1.cpp
+`g++ -std=c++11 -o cs564_p1 -Wall -g cs564_p1.cpp`
 
 or use the makefile by typing in:
-make
+`make`
 
-To start the program, type (./cs564_p1) followed by the name of the data file to read from, for example:
-./cs564_p1 data1.dat
+To start the program, type `./cs564_p1` followed by the name of the data file to read from, for example:
+`./cs564_p1 data1.dat`
 ### Analysis
 How many buckets used?  
 The hash table implemented dynamically resizes the number of buckets used.  
