@@ -8,13 +8,16 @@ This program executes the following:
 5. Writes the ratings of the reviews to an output file.  
 The trim.cpp and trim.hpp files are used in trimming whitespaces in strings  
 ### Input files
-Input files include  
+Input files include:  
+  
 rawReviewRatings.txt  
 rawReviews.txt  
   
 rawReviewRatingsBig.txt  
 rawReviewsBig.txt  
+  
 as test cases and  
+  
 stopwords.txt  
 as a file containing all the stopwords to be cleaned from the review files.  
 ### Compiling and Running
