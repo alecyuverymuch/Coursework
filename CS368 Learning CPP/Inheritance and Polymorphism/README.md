@@ -6,7 +6,7 @@ This program performs the following:
 3. Performs some processing on the vectors of student objects / references and prints statistics about each type (grad / undergrad) of students.
 
 ### Compile and Run
-Compile with Linux g++
+Compile with Linux g++  
 `$ g++ *.cpp -std=c++11`  
 where *.cpp means ALL the .cpp files are to be compiled. You need not mention the names of the .hpp files since they are included from within the .cpp files. The option “-std=c++11” informs the compiler that our code may contain C++11 features.  
 Run using  
