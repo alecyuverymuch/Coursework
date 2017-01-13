@@ -10,6 +10,6 @@ The operations supported by this Matrix class:
 6. Multiplication Assignment of a scalar and a matrix (e.g. m *= 2)  
 7. Array subscripting operator [], access the elements in the matrix using the following syntax:  
    `m[1][2] = 7;`  
-8. Left Shift Operator <<, print a matrix using the following syntax:
+8. Left Shift Operator <<, print a matrix using the following syntax:  
    `std::cout << m << std::endl;`
 
