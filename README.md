@@ -1,2 +1,4 @@
 # Coursework
-Repository containing classwork done at the University of Wisconsin Madison
+Repository containing coursework done at the University of Wisconsin Madison
+### Courses
+CS 368 - Learning C++
