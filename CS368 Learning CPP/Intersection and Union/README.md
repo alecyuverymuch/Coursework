@@ -19,6 +19,6 @@ The union of the two lists will be output in a file called
 union.txt
 
 ### Compile and Run
-Compile and run with Linux g++
+Compile and run with Linux g++  
 `g++ a1.cpp`  
 `./a.out`  
