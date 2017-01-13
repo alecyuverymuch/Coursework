@@ -1,10 +1,7 @@
-################################################################################
-# BadgerDB quick start guide                                                   #
-################################################################################
 
-################################################################################
-# Building the source and documentation                                        #
-################################################################################
+# BadgerDB quick start guide                                                   
+
+### Building the source and documentation                                        
 
 To build the source:
   $ make
@@ -15,9 +12,7 @@ To build the real API documentation (requires Doxygen):
 To view the documentation, open docs/index.html in your web browser after
 running make doc.
 
-################################################################################
-# Prerequisites                                                                #
-################################################################################
+### Prerequisites                                                                
 
 If you are running this on a CSL instructional machine, these are taken care of.
 
