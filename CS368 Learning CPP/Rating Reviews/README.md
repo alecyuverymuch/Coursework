@@ -9,11 +9,11 @@ This program executes the following:
 *The trim.cpp and trim.hpp files are used in trimming whitespaces in strings  
 ### Input files
 Input files include:  
-- `rawReviewRatings.txt`  
-- `rawReviews.txt`  
-  
-- `rawReviewRatingsBig.txt`  
-- `rawReviewsBig.txt`  
+  `rawReviewRatings.txt`  
+  `rawReviews.txt`  
+and  
+  `rawReviewRatingsBig.txt`  
+  `rawReviewsBig.txt`  
 as test cases and  
   `stopwords.txt`  
 as a file containing all the stopwords to be cleaned from the review files.  
